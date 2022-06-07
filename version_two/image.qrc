@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>music/music1.mp3</file>
+        <file>image/character1.png</file>
+        <file>image/character2.png</file>
+        <file>image/bluebullet.png</file>
+        <file>image/redbullet.png</file>
+        <file>image/start.png</file>
+        <file>image/background.png</file>
+        <file>image/shield1.png</file>
+        <file>image/shield2.png</file>
+        <file>image/nuclear1.png</file>
+        <file>image/nuclear2.png</file>
+        <file>image/Boss.png</file>
+        <file>image/me.png</file>
+        <file>image/myshield.png</file>
+        <file>image/nuclear3.png</file>
+    </qresource>
+</RCC>
